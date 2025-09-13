@@ -7,7 +7,7 @@ export default function Hero ({ id }){
           <div className="mb-8 relative inline-block">
             <div className="w-48 h-48 md:w-64 md:h-64 mx-auto rounded-full overflow-hidden border-4 border-yellow-300 shadow-2xl transform hover:scale-105 transition-all duration-500 hover:border-yellow-200 hover:shadow-yellow-300/30">
               <img 
-                src="/assets/hermsmanos.jpg" 
+                src="/assets/hermesmanos.jpg" 
                 alt="Foto de El Prospecto" 
                 className="w-full h-full object-cover hover:brightness-110 transition-all duration-500"
               />
